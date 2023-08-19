@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704259167276",
+    "project_id": "watchdetection",
+    "storage_bucket": "watchdetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704259167276:android:8fff2b8bdd811935c82d89",
+        "android_client_info": {
+          "package_name": "com.example.watchdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704259167276-db702iojnauebhrs0rj47ngi7c2h9d22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlfQfzGdY783UyxNNjbT5oPV5mMBM0Uko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704259167276-db702iojnauebhrs0rj47ngi7c2h9d22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
